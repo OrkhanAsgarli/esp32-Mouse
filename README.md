@@ -116,3 +116,5 @@ monitor_speed = 115200
 
 lib_deps =
   https://github.com/T-vK/ESP32-BLE-Mouse.git
+<img width="960" height="1280" alt="WhatsApp Image 2026-05-12 at 00 40 38" src="https://github.com/user-attachments/assets/665cc9ed-c0af-4f3f-a0c8-82973ff973e0" />
+
