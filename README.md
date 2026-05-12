@@ -55,7 +55,7 @@ monitor_speed = 115200
 
 lib_deps =
   https://github.com/T-vK/ESP32-BLE-Mouse.git
-
+```
 # ESP32 BLE Hərəkətli Mouse (MPU9250)
 
 Bu layihə ESP32 və MPU9250 sensoru istifadə edərək hazırlanmış **wireless (Bluetooth) hərəkətə əsaslanan mouse sistemidir**.
